@@ -1,4 +1,4 @@
-# AssociativeLearning
+# Associative Learning
 These functions generate the replica theoretical and numerical results for the biologically constrained, single-neuron associative learning model described in the manuscript: Danke Zhang, Chi Zhang, and Armen Stepanyants, Robust associative learning is sufficient to explain structural and dynamical properties of local cortical circuits.  
 
 The functions produces the results for both the associative and balanced models which include:
